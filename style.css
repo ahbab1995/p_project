@@ -1,0 +1,22 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1{
+    text-align: center;
+    height: auto;
+    width: 30%;
+    background-color: teal;
+    border: solid;
+    margin: auto;
+    margin-bottom: inherit;
+}
+
+.contenar{
+    text-align: center;
+    width: 50%;
+    margin: auto;
+    color: peru;
+    border: solid;
+    padding: 9px;
+}
